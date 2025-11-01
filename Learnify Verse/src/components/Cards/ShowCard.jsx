@@ -6,7 +6,7 @@ function ShowCard({ icon, title, description, isBeta }) {
       {/* Beta Badge */}
       {isBeta && (
         <div className="absolute top-3 right-3 bg-yellow-400 text-gray-800 text-xs font-semibold px-2 py-0.5 rounded-full shadow-sm">
-          updated soon
+          updating soon
         </div>
       )}
 

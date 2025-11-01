@@ -234,7 +234,7 @@ function Contact() {
           </div>
 
           {/* Form Section */}
-          <div className="lg:col-span-3">
+          {/* <div className="lg:col-span-3">
             <div className="bg-white rounded-2xl shadow-xl p-8 border border-gray-100">
               {submitted ? (
                 <div className="text-center py-16">
@@ -342,7 +342,7 @@ function Contact() {
                 </form>
               )}
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
